@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202932837656",
+    "project_id": "sky-app-c179c",
+    "storage_bucket": "sky-app-c179c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202932837656:android:33757d7556b6752676d26d",
+        "android_client_info": {
+          "package_name": "com.example.skyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202932837656-hm6je8o5b486l1ovijbnlpdvfstgu3tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6U5EeJvtrh8wYcHId4sqyRiIgxcBPN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202932837656-hm6je8o5b486l1ovijbnlpdvfstgu3tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
